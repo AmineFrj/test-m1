@@ -2,4 +2,4 @@
 #modif v2++
 #new update on branch main
 
-feature_B = "another feature added on main"
+feature_B = "new feature added"
